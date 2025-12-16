@@ -3,7 +3,7 @@ import './App.css';
 
 import Header from './components/header/Header';
 import UserCard from './components/usercard/Usercard';
-import ProductList from './components/productlist/Productlist';
+import ProductList from './components/productlist/ProductList';
 import Button from './components/button/Button';
 
 function App() {
